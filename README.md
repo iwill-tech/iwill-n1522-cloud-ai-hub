@@ -164,7 +164,7 @@ Works natively with IWILL N1241 AI Firewall (see [iwill-n1241-ai-firewall](https
 ## 🤝 Support
 
 **Email:** support@iwilltech.co.uk  
-**Discord:** [IWILL Community](https://discord.gg/PLACEHOLDER)
+**Discord:** [IWILL Community](https://discord.gg/NZnKRMFS)
 
 **Websites:**
 - 🌍 [iwilltech.co.uk](https://www.iwilltech.co.uk) — UK & International
